@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // Configuration
-const API_URL = 'https://camo.githubusercontent.com/d95569dd76cf766887bfeb59d791446620005837130ec57e2ad1c04fb5962c35/68747470733a2f2f76697369746f722d636f756e742d62386c622e76657263656c2e6170702f6170692f616e617361686d656430372f76697369746f722d636f756e74'; // Replace with your API endpoint
+const API_URL = '<api url here>'; // Replace with your API endpoint
 const REQUEST_COUNT = 200; // Number of requests
 
 // Function to send a single request
